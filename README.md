@@ -1,4 +1,4 @@
-# Hotel-Booking-Analysis
+## Hotel-Booking-Analysis
 
 # Introduction
 Our given dataset is a hotel booking data set. I analyzed a hotel booking dataset and discovered important factors related to hotel bookings. Firstly, I read the dataset in my collab notebook and gained an understanding of its variables. Next, I performed data cleaning and wrangling by using functions like drop(), fillna(), isna()/isnull(). I also added necessary columns for analysis and removed unnecessary ones.
